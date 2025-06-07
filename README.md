@@ -4,6 +4,7 @@ This repository contains implementations of deep neural networks (DNNs) with 1 l
 - `one_layer_dnn.ipynb`: A shallow neural network with one hidden layer.
 - `three_layer_dnn.ipynb`: A 3-layer neural network with two hidden layers.
 - `l_layer_dnn.ipynb`: A generalized L-layer neural network for flexible depth.
+- `cat_image_dnn.ipynb`: A generalized L-layer neural network for cat image classification.
 
 ## Requirements
 - Python 3.x
